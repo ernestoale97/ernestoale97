@@ -15,7 +15,7 @@ He trabajado en proyectos utilizados por **10K+ usuarios**, aplicando **Clean Ar
   <a href="https://github.com/ernestoale97" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ernestoale97-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/ernesto-alejandro-quintero-su%C3%A1rez-41b387198" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ernesto_Quintero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://ernestoale97.github.io" target="_blank">
